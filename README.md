@@ -24,6 +24,21 @@ This repository presents a curated selection of ensemble learning techniques, fo
 - Bias-variance analysis
 - Ensemble learning principles
 
+## 📚 Data Sources
+
+The datasets used in this repository are sourced from publicly available educational resources.
+
+| File | Description | Source |
+|:---|:---|:---|
+| `WisconsinBreastCancer.csv` | Breast Cancer Wisconsin (Diagnostic) dataset for binary classification experiments. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) |
+| `loans_train.csv` | Lending Club loan dataset for classification modeling. | [Kaggle Dataset - Lending Club Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club) |
+| `loans_outcome_not_known.csv` | Lending Club loan dataset (outcome unknown records) used for additional experiments. | [Kaggle Dataset - Lending Club Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club) |
+
+### Notes
+- The datasets are included here strictly for educational and demonstration purposes.
+- All rights and ownership of the datasets belong to the original creators and respective platforms (UCI and Kaggle).
+- If you plan to reuse these datasets for research or commercial purposes, please consult the original source pages for license information.
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

@@ -16,13 +16,6 @@ venv/
 # System files
 .DS_Store
 
-# Data files (optional)
-*.csv
-*.xlsx
-*.pkl
-*.h5
-*.zip
-
 # Model files
 *.h5
 *.pth
